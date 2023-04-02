@@ -5,4 +5,8 @@
     <string name="question_article">Вам нравится эта статья?</string>
     <string name="yes">YES</string>
     <string name="no">NO</string>
+    <string name="yes_message">LIKE THIS</string>
+    <string name="no_message">THANKS FOR ANSWER</string>
+    <string name="title1">Cry of shadow</string>
+    <string name="article">- a bag of rice - a box of sweets - a can of ice cream - a bag of coffee - fish sliced in vacuum packaging - a box of cereal - a box of cookies - a package of frozen vegetables</string>
 </resources>
